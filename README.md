@@ -1,11 +1,38 @@
-<h1 align="center">Hi 👋, I'm Tripop Torcheep</h1>
-<h3 align="center">A Software Engineer at Qualint.Co.Ltd</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+</div>
 
-- 📝 I regularly write articles on [https://medium.com/@mrtripop](https://medium.com/@mrtripop)
+<h1 align="center">Hi 👋, I'm Tripop Torcheep</h1>
+
+<div id="badges" align="center">
+  <a href="https://tripop12.wixsite.com/cpe-portfolio-tripop">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tripop-torcheep-145743192">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/mrtripop/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
+  </a>
+  <a href="https://medium.com/@mrtripop">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</div>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrtripop&style=flat-square&color=blue" alt="Github View Profile"/>  
+  <img src="https://img.shields.io/github/stars/mrtripop" alt="Github Star" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<h3 align="center">A Software Engineer at Qualint.Co.Ltd</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
