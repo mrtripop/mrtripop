@@ -32,8 +32,6 @@
 
 I'm junior software engineer, I'm working as part of research & development for deliver great product to our customer.
 
-<h3>Software Engineer at Qualint.Co.Ltd</h3>
-
 #### Skill Stack
 <p align="left">
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a>
