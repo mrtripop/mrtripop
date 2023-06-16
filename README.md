@@ -40,7 +40,7 @@ If you're interested in talking, feel free to send me a message to connect.
 
 ## ⚒️ Tech Stack
 
-Development stack: Spring Boot, React, Next, React Native, Flutter, and Postgresql.
+Development stack:
 
 <p align="left">
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="70" height="70"/> </a>
@@ -55,7 +55,7 @@ Development stack: Spring Boot, React, Next, React Native, Flutter, and Postgres
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="70" height="70" /> </a> 
 </p>
 
-For Development & Operation stack: Docker, docker-compose, and CI.
+For Development & Operation stack:
 
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a>
@@ -63,5 +63,4 @@ For Development & Operation stack: Docker, docker-compose, and CI.
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/> </a> 
 </p>
 
-  
 ![Mrtripop GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtripop&show_icons=true&theme=radical)
