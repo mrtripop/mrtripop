@@ -38,6 +38,9 @@ I have experience in cloud provider such as Google Cloud, AWS Cloud and love to 
 
 If you're interested in talking, feel free to send me a message to connect.
 
+## 📚 Portfolio
+- [Admin dashboard](https://portfolio-dashboard-website.firebaseapp.com/)
+
 ## ⚒️ Tech Stack
 
 Development stack:
