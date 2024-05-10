@@ -1,11 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+  <a href="https://pro.mrtripop.com/">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+  </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Tripop Torcheep</h1>
 
 <div id="badges" align="center">
-  <a href="https://tripop12.wixsite.com/cpe-portfolio-tripop">
+  <a href="https://pro.mrtripop.com/">
     <img height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/tripop-torcheep-145743192">
@@ -24,22 +26,16 @@
   <img height="20" src="https://img.shields.io/github/stars/mrtripop" alt="Github Star" />
 </div>
 
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
+## :man_technologist: About Me
 
-## :man_technologist: About Me :
+Hi, I am a software engineer with more than two years of experience in coding and project development.
+As a student and worker, I gained basic knowledge such as data structure and algorithms, mathematics, embedded systems, software development, and so on. I've also developed and released several of my own programs, such as a game, application, and the final university project.
 
-I am a Junior Software Engineer at Qualint, I collaborate with team to research & development product for deliver best customer experience.
+The GitHub profile is for personal use. I've developed all of these to practice and learn new things. The current main stack I use is Java Spring Boot, but the core concept and system design are more flexible than specific to any framework. So, all of these repositories can gain worthy knowledge together.
 
-In my free time, I enjoy find new tech stack and prove concept, for improve my skill to keep it current all the time. I also love to find solution for solve problem that I never know such as Log standard, database performace, and system scaling for high workload traffic.
+I'm grateful that you've taken the time to visit me. If you like, please give me the star and contribute together! 
 
-I have experience in cloud provider such as Google Cloud, AWS Cloud and love to learn what cloud technology can implementation high availability, fault tolerance, and strongest system scalable.
-
-If you're interested in talking, feel free to send me a message to connect.
-
-## 📚 Portfolio
-- [Admin dashboard](https://portfolio-dashboard-website.firebaseapp.com/)
+Thank you!
 
 ## ⚒️ Tech Stack
 
