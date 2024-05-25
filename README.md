@@ -31,9 +31,9 @@
 Hi, I am a software engineer with more than two years of experience in coding and project development.
 As a student and worker, I gained basic knowledge such as data structure and algorithms, mathematics, embedded systems, software development, and so on. I've also developed and released several of my own programs, such as a game, application, and the final university project.
 
-The GitHub profile is for personal use. I've developed all of these to practice and learn new things. The current main stack I use is Java Spring Boot, but the core concept and system design are more flexible than specific to any framework. So, all of these repositories can gain worthy knowledge together.
+The GitHub profile is for personal use. I've developed all of these to practice and learn new things. The current main stack I use is Java Spring Boot, but the core concept and system design are more flexible than specific to any framework. So, all of these repositories can gain worthy resource of knowledge.
 
-I'm grateful that you've taken the time to visit me. If you like, please give me the star and contribute together! 
+I'm grateful that you've taken the time to visit me. If you like, please give me the star! 
 
 Thank you!
 
